@@ -1,14 +1,12 @@
 
 # Titanic Survivor Prediction Project
 
-## 프로젝트 개요
-이 프로젝트는 케글의 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) 대회에 참여하여 타이타닉 호의 재난에서 생존할 가능성이 있는 승객들을 예측하는 것을 목표로 했습니다.
-데이터 분석과 머신러닝 모델을 활용하여 생존자를 예측하고, 생존 가능성에 영향을 미치는 요인들을 분석하였습니다.
-
-
 <code><img height = "450"
 src = https://github.com/siilver94/Titanic-Survival-Exploration/assets/57824945/95d0d895-bba1-402f-a01e-d4f67a6780f7></code>
 
+## 프로젝트 개요
+이 프로젝트는 케글의 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) 대회에 참여하여 타이타닉 호의 재난에서 생존할 가능성이 있는 승객들을 예측하는 것을 목표로 했습니다.
+데이터 분석과 머신러닝 모델을 활용하여 생존자를 예측하고, 생존 가능성에 영향을 미치는 요인들을 분석하였습니다.
 
 ## 데이터셋
 이 프로젝트에서 사용된 데이터는 케글의 Titanic 대회에서 제공된 데이터셋입니다. 승객의 성별, 나이, 승선 클래스, 요금 등 다양한 정보를 바탕으로 생존 여부를 예측합니다.
